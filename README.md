@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=msank00&show_icons=true" >
+I am a Machine Learning and Deep Learning practinoer. Primary focused on Natural Languge Processing. Also trying my hand at Computer Vision tasks. 
+
+>> "...what we want is a machine, that can learn from experiance..." ~ Alan Turing, 1947
+
+<img alt="msank_stat" src="https://github-readme-stats.vercel.app/api?username=msank00&show_icons=true" >
 
 <!--
 **msank00/msank00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
