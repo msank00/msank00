@@ -2,12 +2,20 @@
 
 I am a Machine Learning and Deep Learning practinoer. Primary focused on Natural Languge Processing. Also trying my hand at Computer Vision tasks. 
 
+----
+
 >> "...what we want is a machine, that can learn from experiance..." ~ Alan Turing, 1947
 
-<center>
-<img alt="msank_stat" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.import.io%2Fpost%2Fhistory-of-deep-learning%2F&psig=AOvVaw24fOJig1-i-WMYuiLCF767&ust=1596975744519000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCf2d7Mi-sCFQAAAAAdAAAAABAD" >
-</center>
+----
 
+**✨ Tech stacks currently using** <br>
+
+<br>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
+<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+<br>
+<br>
 
 ### Activity Stats
 
