@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-I am a Machine Learning and Deep Learning practinoer. Primary focused on Natural Languge Processing. Also learning Computer Vision tasks. 
+I am a Machine Learning and Deep Learning practioner. Primarily focused on Natural Languge Processing tasks. Also learning Computer Vision tasks. 
 
 ----
 
