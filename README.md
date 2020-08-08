@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-I am a Machine Learning and Deep Learning practinoer. Primary focused on Natural Languge Processing. Also trying my hand at Computer Vision tasks. 
+I am a Machine Learning and Deep Learning practinoer. Primary focused on Natural Languge Processing. Also learning Computer Vision tasks. 
 
 ----
 
@@ -25,12 +25,6 @@ I am a Machine Learning and Deep Learning practinoer. Primary focused on Natural
 <br>
 
 
-### Activity Stats
-
-<center>
-<img alt="msank_stat" src="https://github-readme-stats.vercel.app/api?username=msank00&show_icons=true" >
-</center>
-
 <!--
 **msank00/msank00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -52,5 +46,11 @@ Here are some ideas to get you started:
   
 </p>
 
+
+### Activity Stats
+
+<center>
+<img alt="msank_stat" src="https://github-readme-stats.vercel.app/api?username=msank00&show_icons=true" >
+</center>
 
 -->
