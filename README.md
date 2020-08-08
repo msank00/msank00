@@ -4,6 +4,10 @@ I am a Machine Learning and Deep Learning practinoer. Primary focused on Natural
 
 >> "...what we want is a machine, that can learn from experiance..." ~ Alan Turing, 1947
 
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.import.io%2Fpost%2Fhistory-of-deep-learning%2F&psig=AOvVaw24fOJig1-i-WMYuiLCF767&ust=1596975744519000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCf2d7Mi-sCFQAAAAAdAAAAABAD)
+
+### Activity Stats
+
 <img alt="msank_stat" src="https://github-readme-stats.vercel.app/api?username=msank00&show_icons=true" >
 
 <!--
