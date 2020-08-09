@@ -1,6 +1,9 @@
 ### 👋 Hi there 
 
-I am a Machine Learning and Deep Learning practioner. Primarily focused on Natural Languge Processing tasks. Also learning Computer Vision tasks. 
+:rocket: I am a self-motivated individual with keen interest in Statistical Analysis, Machine Learning, Deep Learning and Natural Language Processing. Recently picked up interests in Computer Vision as well. 
+
+:dart: I am generally interested in modelling and building AI powered systems that allow humans to extract information from structured and unstructured data. 
+For this purpose, I use tools from statistics, machine learning, deep learning, natural language processing and computer vision.
 
 ----
 
