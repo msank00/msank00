@@ -49,8 +49,9 @@ For this purpose, I use tools from statistics, machine learning, deep learning, 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msank00&show_icons=true" alt="msank00" /></p>
 
+
 <p align="center">
-<a href="https://twitter.com/@imridhasankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@imridhasankar" height="30" width="30" /></a>
+✨<a href="https://twitter.com/@imridhasankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@imridhasankar" height="30" width="30" />✨</a>
 </p>
 
 ----
