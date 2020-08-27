@@ -45,7 +45,9 @@ For this purpose, I use tools from statistics, machine learning, deep learning, 
 <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> 
 </p>
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msank00&layout=compact&hide=html" alt="msank00" /></p>
+-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msank00&show_icons=true" alt="msank00" /></p>
 
