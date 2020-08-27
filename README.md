@@ -1,5 +1,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msank00" alt="msank00" /> </p>
 
+----
+
+<center>
+
+>>  ✨ "...what we want is a machine, that can learn from experiance..." ~ Alan Turing, 1947 ✨
+
+</center>
+
+----
+
 ### 👋 Hi there 
 
 :rocket: I am a self-motivated individual with keen interest in `Statistical Analysis`,`Machine Learning`, `Deep Learning` and `Natural Language Processing`. Recently picked up interests in `Computer Vision` as well. 
@@ -7,15 +17,6 @@
 :dart: I am generally interested in _modelling and building AI powered systems_ that allow humans to extract information from structured and unstructured data. 
 For this purpose, I use tools from statistics, machine learning, deep learning, natural language processing and computer vision.
 
-----
-
-<br>
-
->> "...what we want is a machine, that can learn from experiance..." ~ Alan Turing, 1947
-
-<br>
-
-----
 
 
 - 🔭 I’m currently working on [Caption Generation](https://github.com/msank00/image_caption_gen)
