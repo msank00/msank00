@@ -2,7 +2,7 @@
 
 ### 👋 Hi there 
 
-:rocket: I am a self-motivated individual with keen interest in Statistical Analysis, Machine Learning, Deep Learning and Natural Language Processing. Recently picked up interests in Computer Vision as well. 
+:rocket: I am a self-motivated individual with keen interest in `Statistical Analysis`,`Machine Learning`, `Deep Learning` and `Natural Language Processing`. Recently picked up interests in `Computer Vision` as well. 
 
 :dart: I am generally interested in modelling and building AI powered systems that allow humans to extract information from structured and unstructured data. 
 For this purpose, I use tools from statistics, machine learning, deep learning, natural language processing and computer vision.
@@ -23,6 +23,7 @@ For this purpose, I use tools from statistics, machine learning, deep learning, 
 - 📝 I ocassionally write articles on differnt ML, DL, NLP topics [here](https://msank00.github.io/blog/)
 - 💬 Ask me about **machine learning, deep learning**
 
+<br>
 
 **✨ Languages and Tools:** 
 
