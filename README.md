@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-    📫&nbsp; "...what we want is a machine, that can learn from experiance..."<br>
+    ⭐️&nbsp; "...what we want is a machine, that can learn from experiance..."⭐️<br>
     <i>~ Alan Turing, 1947</i>
 </p>
 
