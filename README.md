@@ -1,15 +1,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msank00" alt="msank00" /> </p>
 
-----
 
+
+
+---
 
 <p align="center">
-
->> ✨ "...what we want is a machine, that can learn from experiance..." ~ Alan Turing, 1947 ✨
-
+    📫&nbsp; "...what we want is a machine, that can learn from experiance..."<br>
+    <i>~ Alan Turing, 1947</i>
 </p>
 
-----
+---
+
+
 
 ### 👋 Hi there 
 
