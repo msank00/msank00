@@ -2,11 +2,12 @@
 
 ----
 
-<center>
+
+<p align="center">
 
 >> ✨ "...what we want is a machine, that can learn from experiance..." ~ Alan Turing, 1947 ✨
 
-</center>
+</p>
 
 ----
 
