@@ -56,7 +56,16 @@ For this purpose, I use tools from statistics, machine learning, deep learning, 
 
 ----
 
+<!--
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msank00&show_icons=true" alt="msank00" /></p>
+# https://github.com/anuraghazra/github-readme-stats
+-->
+
+
+![msank00's GitHub stats](https://github-readme-stats.vercel.app/api?username=msank00&show_icons=true&theme=radical)
+
+
+
 
 <!--
 <p align="center">
