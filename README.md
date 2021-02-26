@@ -25,7 +25,7 @@ For this purpose, I use tools from statistics, machine learning, deep learning, 
 
 - 🔭 I’m currently working on [Caption Generation](https://github.com/msank00/image_caption_gen)
 - 👨‍💻 All of my projects are available at [github](https://github.com/msank00)
-- ⚡ All my paper reviews are available at [notion.so](https://www.notion.so/c472d5aeba9b4effb13a4a3df7aac0b4?v=b7862439954140ec8f9fe5a5a02b2b1e)
+- ⚡ All my paper notes are available at [notion.so](https://www.notion.so/c472d5aeba9b4effb13a4a3df7aac0b4?v=b7862439954140ec8f9fe5a5a02b2b1e)
 - 📝 I ocassionally write articles on differnt ML, DL, NLP topics [here](https://msank00.github.io/blog/)
 - 💬 Ask me about **machine learning, deep learning**
 
